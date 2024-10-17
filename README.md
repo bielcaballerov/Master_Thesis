@@ -11,7 +11,7 @@ This repository contains the code and resources for my master’s thesis, focuse
 ## Pretrained Models
 
 Due to the large storage capacity required for pretrained models, all files related to models used in this project are hosted externally. You can download them from the following link:
-- [Pretrained Models and Data Storage](X)
+- [Pretrained Models and Data Storage](https://drive.google.com/drive/folders/16YsOAhLvUZcdaW-j48IlnImlLkVzNV9t?usp=drive_link)
 
 ## Repository Overview
 
